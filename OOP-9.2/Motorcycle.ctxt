@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Motorcycle()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Motorcycle\n
+comment1.params=color\ engineSize
+comment1.target=Motorcycle(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ special\ form\ of\ class\ Motorcycle\ for\ new\ Motorcycle\n
+comment2.params=color\ currentMileage\ engineSize
+comment2.target=Motorcycle(java.lang.String,\ int,\ int)
+comment2.text=\n\ Constructor\ for\ special\ form\ of\ class\ Motorcycle\ for\ used\ Motorcycle\n
+comment3.params=
+comment3.target=void\ changeOil()
+comment3.text=\n\ Override\ motorcycle\ oil\ change\ to\ every\ 5,000\ miles\ \n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ toString\ method\ for\ motorcycle\n
+numComments=5
